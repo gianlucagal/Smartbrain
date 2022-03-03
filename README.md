@@ -7,3 +7,4 @@ Una volta inviata l'immagine all'API questa viene analizzata e si riceve in risp
 La parte front-end del sito é realizzata in React, per il lato back-end é stato utilizzato node.js con il framework express.js. 
 Il corretto funzionamento del server é stato testato tramite l'utilizzo del software Postman prima di interfacciarlo al front-end. 
 Il database di tipo relazionale é stato realizzato tramite la GUI PSequel, programmata con PostgreSQL. 
+Il funzionamento del sito si basa sul corretto funzionamento dell'API di Clarifai che tuttavia risulta spesso fuori servizio, sarebbe opportuno trovare una soluzione alternativa per dare maggiore stabilitá all'applicazione.
